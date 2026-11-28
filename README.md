@@ -11,10 +11,11 @@ Aspiring penetration tester building hands-on offensive skills in reconnaissance
 | # | Module | Room | Status | Notes |
 |---|--------|------|--------|-------|
 | 1 | Penetration Testing Foundations | [Guided Pentest: Web](./01-Penetration-Testing-Foundations/Guided-Pentest-Web.md) | Done | Recon, IDOR, weak password reset, upload filter bypass, web shell to reverse shell |
+| 2 | Penetration Testing Foundations | [Guided Pentest: Infrastructure](./01-Penetration-Testing-Foundations/Guided-Pentest-Infrastructure.md) | Done | Nmap, Searchsploit, UnrealIRCd backdoor (CVE-2010-2075) via Metasploit, plaintext root password to SSH |
 
 ## Tools
 
-Nmap, Gobuster, cURL, Firefox DevTools, Netcat
+Nmap, Gobuster, cURL, Firefox DevTools, Netcat, Searchsploit, Metasploit, SSH
 
 ## Related
 
